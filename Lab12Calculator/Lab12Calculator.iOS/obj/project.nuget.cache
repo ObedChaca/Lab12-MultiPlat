@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2g8x4OGnIAPmoc4asCPjHTd9RV0pSp2UfjDVx9bGOqyS6tsQEYhqmkUlbXlf9R832YIO9TLjsAusuUagVid8g==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Obed Chaca\\source\\repos\\Lab12Calculator\\Lab12Calculator\\Lab12Calculator.iOS\\Lab12Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Obed Chaca\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
